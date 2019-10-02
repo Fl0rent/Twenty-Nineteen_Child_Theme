@@ -1,0 +1,13 @@
+/*
+ Theme Name:   Twenty Nineteen Child Theme
+ Theme URI:    https://offpiste.fr/
+ Description:  A child theme of Twenty Nineteen WordPress theme.
+ Author:       florent.biz
+ Author URI:   https://florent.biz
+ Template:     twentynineteen
+ Version:      1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+@import url("../twentynineteen/style.css");
